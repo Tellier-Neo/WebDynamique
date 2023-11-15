@@ -1,5 +1,4 @@
-alert("Hello World");
-var MavariableString = "Toto";
+var MavariableSring = "Toto";
 var MavariableNumerique = 100;
 var Mavariabletableau = ['Apple' , 'Banana'];
 var MavariableObjet = window
