@@ -1,0 +1,23 @@
+div.boxElement {
+    margin: 10px;
+    border: 1px solid black;
+    float: left;
+    color: beige;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(165, 42, 132);
+}
+
+div.boxChanged {
+    margin: 10px;
+    border: 1px solid black;
+    float: left;
+    color: beige;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(67, 165, 42);
+}
+
+div.survol {
+    visibility: hidden;
+}
